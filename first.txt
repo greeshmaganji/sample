@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en>
+
+<head>
+	<meta charset ="UTF-8">
+	<title>My first page</title>
+	<img src="im.jpg"
+	alt="image"
+	title="photo"
+	class="thumbnail"
+	/>
+</head>
+
+<body>
+	<h1>Hi <br>There!!&copy</h1>
+	<img src="im.jpg"
+	alt="image"
+	title="photo"
+	class="thumbnail"
+	/>
+	<h2>Hello Greeshma !</h2>
+</body>
+
+</html
